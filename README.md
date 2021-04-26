@@ -1,4 +1,3 @@
-# programming-beta-task-00
-Problem ID: 0000-0043
+# programming-beta-task
 
 Source of tasks: https://beta.programming.in.th/tasks
